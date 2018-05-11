@@ -761,7 +761,7 @@ Credits:
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C3E88D" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="2" fgColor="FFCB6B" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="5F5A60" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="C3E88D" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="FF5370" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="CF6A4C" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REFERENCE" styleID="5" fgColor="FF5370" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DOCUMENT" styleID="6" fgColor="0000FF" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
